@@ -31,7 +31,7 @@ global.packname = "POWERS"
 global.author = "virus"
 global.creator = "2349043812778@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349043812778"] // Premium User
+global.premium =["639693998821"] // Premium User
 global.hituet = 0
 
 //bot sett
